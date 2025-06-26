@@ -1,17 +1,17 @@
-- :wave: Hi! 私の名前は森 康太朗です。
-- :eyes: 私はC言語, Go, Rust, キーボードの制作に興味があります。
-- :seedling: 現在、Rustを学んでいます。
-- 💞️ Goを使ったOSSプロジェクトに協力したいです。
-- :mailbox: TwitterのDMが一番早く返信できます。
+- :wave: こんにちは! 私の名前は森 康太朗です。
+- :eyes: 私はTypeScript, Python, Goに興味があります。
+- :seedling: 現在、Solidityを学んでいます。
+- 💞️ 27年卒業見込みで、現在就職活動中です。
+- :mailbox: m.koutarou2004r@gmail.comでご連絡をお待ちしています！
 - :speech_balloon: 日本語と簡単な英語が話せます。
 
 ***
 
 - :wave: Hi, I'm Koutarou Mori.
-- :eyes: I'm interested in C, Golang, Rust and making keybaord...
-- :seedling: I'm currently learning Rust.
-- 💞️ I'm looking to collaborate on OSS project with Golang.
-- :mailbox: DM me on Twitter is the fastest way to get a reply from me.
+- :eyes: I'm interested in Typescipt, Python, Golang.
+- :seedling: I'm currently learning Solidity.
+- 💞️ Expectd to graduate in '27 and I am currently looking for a job.
+- :mailbox: I'm waiting for your contact on m.koutarou2004r@gmail.com.
 - :speech_balloon: I can speak in Japanese and simple English.
 
 <!---
